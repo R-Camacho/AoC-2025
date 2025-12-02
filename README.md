@@ -3,7 +3,7 @@ This year I decided to solve each problem from [AoC](https://adventofcode.com/20
 | Day | Language |
 |-----|----------|
 | 01  | Rust     |
-| 02  | TBA      |
+| 02  | Go       |
 | 03  | TBA      |
 | 04  | TBA      |
 | 05  | TBA      |
