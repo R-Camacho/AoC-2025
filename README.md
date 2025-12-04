@@ -5,7 +5,7 @@ This year I decided to solve each problem from [AoC](https://adventofcode.com/20
 | 01  | Rust     |
 | 02  | Go       |
 | 03  | Lua      |
-| 04  | TBA      |
+| 04  | Nim      |
 | 05  | TBA      |
 | 06  | TBA      |
 | 07  | TBA      |
